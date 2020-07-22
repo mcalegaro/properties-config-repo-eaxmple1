@@ -1,2 +1,2 @@
 my:
-  greeting: Hello World from Config Server specific to configclient
+  greeting: Updated greeting from Config Server specific to configclient
