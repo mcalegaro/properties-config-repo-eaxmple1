@@ -6,4 +6,5 @@ my:
 db:
   connection: connection-string-from-config-server
   host: 127.0.0.1
+  password: '{cipher}462572695b73c8b0bf376571f89c30a07b28e9c2cda33b749da9f1ffff01e027c6ef'
   port: 1200

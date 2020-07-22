@@ -1,2 +1,2 @@
 my:
-  greeting: Updated twice greeting from Config Server specific to configclient
+  prop: Updated twice value from Config Server specific to configclient
